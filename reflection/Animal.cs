@@ -9,7 +9,6 @@ namespace reflection
     public class Animal
     {
         public string Som { get; set; }
-
         public void EmitirSom(string som)
         {
             Som = som;
